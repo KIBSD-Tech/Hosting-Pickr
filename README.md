@@ -1,4 +1,4 @@
-# Hosting-Pickr
+# Hosting-Pickr2
 
 Pickr2.0 is a RTI bi-weekly scheduling tool currently being used by the Kodiak Middle School. 
 
